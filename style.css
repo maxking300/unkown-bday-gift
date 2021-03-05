@@ -1,0 +1,41 @@
+/*********************************** Tag selectors ************************************/
+body {
+  background: #aacfcf;
+}
+
+h1 {
+  font-size: 100px;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  font-size: 100px;
+  font-family: 'Dancing Script', cursive;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+/************************************ Class selectors *************************************/
+.birthday {
+  position: relative;
+  left: 150px;
+}
+
+.name {
+  position: relative;
+  left: 380px;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+.photo {
+border-radius: 100%;
+height: 300px;
+position: absolute;
+right: 20px;
+top: 500px;
+}
